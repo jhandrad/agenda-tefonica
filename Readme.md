@@ -1,1 +1,12 @@
-Agenda
+# Agenda Telefônica
+
+<p>Agenda telefônica com interface gráfica e banco de dados.<p>
+
+## Arquivos
+- app_agenda.py: é o arquivo principal que deve ser executado para iniciar o programa.
+
+- classes.py: contém as classes do projeto.
+
+- configuracoes.py: arquivo onde estão as configurações da interface gráfica.
+
+- funcoes_bd.py: onde estão as funções que fazem consulta ou alteram o banco de dados.
